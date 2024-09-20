@@ -1,0 +1,17 @@
+/home/laz/Projects/Speedy_Translation_Project/Database/target/debug/deps/libtypenum-604e3850eff638c8.rmeta: /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /home/laz/Projects/Speedy_Translation_Project/Database/target/debug/build/typenum-0c86768464163798/out/op.rs /home/laz/Projects/Speedy_Translation_Project/Database/target/debug/build/typenum-0c86768464163798/out/consts.rs
+
+/home/laz/Projects/Speedy_Translation_Project/Database/target/debug/deps/typenum-604e3850eff638c8.d: /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /home/laz/Projects/Speedy_Translation_Project/Database/target/debug/build/typenum-0c86768464163798/out/op.rs /home/laz/Projects/Speedy_Translation_Project/Database/target/debug/build/typenum-0c86768464163798/out/consts.rs
+
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs:
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs:
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs:
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs:
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs:
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs:
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs:
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs:
+/home/laz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs:
+/home/laz/Projects/Speedy_Translation_Project/Database/target/debug/build/typenum-0c86768464163798/out/op.rs:
+/home/laz/Projects/Speedy_Translation_Project/Database/target/debug/build/typenum-0c86768464163798/out/consts.rs:
+
+# env-dep:OUT_DIR=/home/laz/Projects/Speedy_Translation_Project/Database/target/debug/build/typenum-0c86768464163798/out
